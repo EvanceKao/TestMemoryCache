@@ -1,4 +1,4 @@
-﻿分享 .NET 的快取功能 (System.Runtime.Caching.MemoryCache) 的問題，如果我有誤解還請不吝告知，謝謝。
+分享 .NET 的快取功能 (System.Runtime.Caching.MemoryCache) 的問題，如果我有誤解還請不吝告知，謝謝。
 
 # 流程
 
